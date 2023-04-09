@@ -23,11 +23,13 @@ int[] GeneratorArray(int Lenght, int minValui, int maxValua)
 
 }  
 
-void MetodNum(int num, int chislo)
+void MetodNum(int num)
 {
-    if (num > 0 || num % 2 == 0)
+    int count = 0;
+    int numA = 0;
+    for (numA > 0; numA <= Lenght; numA % 2 == 0)
     {
-        if (chislo > 99 || chislo < 1000)
+        if (num > 99 || num < 1000)
 
         {
             System.Console.WriteLine("Выполняются условия: ");
@@ -39,13 +41,8 @@ void MetodNum(int num, int chislo)
 
 }
 
-int MethodChet(int chet)
-{
-    if (chet % 2 == 0)
-    {
-        
-    }
-    return chet;
-}
 
-
+int Lenght = Bass("Dlena maseva: ");
+int min = Bass("Nachalnoe znach, dlya leapazona sluchayn chisel: ");
+int max = Bass("Konechnoe znach, dlya leapazona sluchayn chisel: ");
+int [] array = GeneratorArray(Lenght, min, max);
