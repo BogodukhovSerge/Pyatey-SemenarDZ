@@ -23,16 +23,30 @@ int[] GeneratorArray(int Lenght, int minValui, int maxValua)
 
 }  
 
-void MetodNum(int num)
+void MetodNum(int num, int chislo)
 {
     if (num > 0 || num % 2 == 0)
     {
-        Console.Write("Vvedeno polozhitelnot chetnoe chislo");
+        if (chislo > 99 || chislo < 1000)
+
+        {
+            System.Console.WriteLine("Выполняются условия: ");
+            
+        }
 
     }
     Console.Write("-");
 
 }
 
-
+int MethodChislo(int chislo)
+{
+    if (chislo > 99 || chislo < 1000)
+    {
+        System.Console.WriteLine("")
+        {
+            
+        }
+    }
+}
 
