@@ -23,7 +23,7 @@ int[] GeneratorArray(int Lenght, int minValui, int maxValua)
 
 }  
 
-int MetodNum(int num)
+void MetodNum(int num)
 {
     if (num > 0 || num % 2 == 0)
     {
@@ -31,7 +31,7 @@ int MetodNum(int num)
 
     }
     Console.Write("-");
-    return num;
+
 }
 
 
