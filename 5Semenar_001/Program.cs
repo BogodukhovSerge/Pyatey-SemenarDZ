@@ -21,4 +21,18 @@ int[] GeneratorArray(int Lenght, int minValui, int maxValua)
     }
     return array;
 
+}  
+
+int MetodNum(int num)
+{
+    if (num > 0 || num % 2 == 0)
+    {
+        Console.Write("Vvedeno polozhitelnot chetnoe chislo");
+
+    }
+    Console.Write("-");
+    return num;
 }
+
+
+
