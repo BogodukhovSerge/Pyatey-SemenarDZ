@@ -31,7 +31,7 @@ void MetodNum(int num, int chislo)
 
         {
             System.Console.WriteLine("Выполняются условия: ");
-            
+
         }
 
     }
@@ -39,14 +39,13 @@ void MetodNum(int num, int chislo)
 
 }
 
-int MethodChislo(int chislo)
+int MethodChet(int chet)
 {
-    if (chislo > 99 || chislo < 1000)
+    if (chet % 2 == 0)
     {
-        System.Console.WriteLine("")
-        {
-            
-        }
+        
     }
+    return chet;
 }
+
 
