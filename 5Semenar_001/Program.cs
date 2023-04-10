@@ -27,19 +27,19 @@ void MetodNum(int num)
 {
     int count = 0;
     int numA = 0;
-    for (numA > 0; numA <= Lenght; numA % 2 == 0)
+    for ( int i = 0; i <= array.Lenght; count = i % 2 == 0)
     {
+
         if (num > 99 || num < 1000)
 
         {
             System.Console.WriteLine("Выполняются условия: ");
-
         }
-
     }
     Console.Write("-");
 
 }
+
 
 
 int Lenght = Bass("Dlena maseva: ");
