@@ -23,21 +23,24 @@ int[] GeneratorArray(int Lenght, int minValui, int maxValua)
 
 }  
 
-void MetodNum(int num)
+int MetodNum(int sum)
 {
-    int count = 0;
-    int numA = 0;
-    for ( int i = 0; i <= array.Lenght; count = i % 2 == 0)
+    int[] numA = new int[0];
+    
+    for ( int i = 0; i <= ; i++)
     {
-
-        if (num > 99 || num < 1000)
-
+        if (numA[] > 99 || numA[] < 1000)
         {
-            System.Console.WriteLine("Выполняются условия: ");
+            
+        }
+        else if (numA[i] % 2 != 0)
+            {
+                sum += numA[i];
+            }
+            
         }
     }
-    Console.Write("-");
-
+    return sum;
 }
 
 
