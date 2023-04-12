@@ -43,4 +43,4 @@ int Lenght = Bass("Dlena maseva: ");
 int min = Bass("Nachalnoe znach, dlya deapazona sluchayn chisel: ");
 int max = Bass("Konechnoe znach, dlya deapazona sluchayn chisel: ");
 int [] array = GeneratorArray(Lenght, min, max);
-MetodNum(count);
+System.Console.WriteLine($"kolichestvo chet chisel {array} = {MetodNum(count)}");
