@@ -26,9 +26,8 @@ int[] GeneratorArray(int Lenght, int minValui, int maxValua)
 
 int MetodNum(int sum)
 {
-    int[] numA = new int["0"];
-    int lenght = 0;
-    for ( int i = 0; i <= lenght; i++)
+    int[] numA = new int[array.lenght];
+    for ( int i = 0; i <= array.lenght; i++)
     {
         if (i % 2 != 0 ? sum += numA[i] : 0);
     }
