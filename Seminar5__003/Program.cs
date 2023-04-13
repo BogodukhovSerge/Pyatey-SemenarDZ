@@ -25,3 +25,4 @@ int MetodSum(int Sum)
         if (max < i) max = i;
     }
 }
+int [] array = MetodSum(Lenght, min, max);
