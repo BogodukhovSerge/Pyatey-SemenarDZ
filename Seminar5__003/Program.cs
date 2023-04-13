@@ -15,7 +15,7 @@ float[] GeneratorArray(float Lenght, float minValui, float maxValua)
 
 }  
 
-int MetodSum(int Sum)
+void MetodSum(int Sum)
 {
     int min = 0;
     int max = 0;
