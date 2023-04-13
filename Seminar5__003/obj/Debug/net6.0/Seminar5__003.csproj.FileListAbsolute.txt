@@ -1,0 +1,15 @@
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\bin\Debug\net6.0\Seminar5__003.exe
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\bin\Debug\net6.0\Seminar5__003.deps.json
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\bin\Debug\net6.0\Seminar5__003.runtimeconfig.json
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\bin\Debug\net6.0\Seminar5__003.dll
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\bin\Debug\net6.0\Seminar5__003.pdb
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\obj\Debug\net6.0\Seminar5__003.csproj.AssemblyReference.cache
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\obj\Debug\net6.0\Seminar5__003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\obj\Debug\net6.0\Seminar5__003.AssemblyInfoInputs.cache
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\obj\Debug\net6.0\Seminar5__003.AssemblyInfo.cs
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\obj\Debug\net6.0\Seminar5__003.csproj.CoreCompileInputs.cache
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\obj\Debug\net6.0\Seminar5__003.dll
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\obj\Debug\net6.0\refint\Seminar5__003.dll
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\obj\Debug\net6.0\Seminar5__003.pdb
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\obj\Debug\net6.0\Seminar5__003.genruntimeconfig.cache
+C:\Users\zz925\OneDrive\Рабочий стол\Пятый Семинар.DZ\Seminar5__003\obj\Debug\net6.0\ref\Seminar5__003.dll
