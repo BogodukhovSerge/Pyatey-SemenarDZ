@@ -25,4 +25,5 @@ int MetodSum(int Sum)
         if (max < i) max = i;
     }
 }
-int [] array = MetodSum(Lenght, min, max);
+int [] array = GeneratorArray(Lenght, minValui, maxValua);
+System.Console.WriteLine($"Разница между мин и макс = {MetodSum(max) - (min)}");
