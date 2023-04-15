@@ -27,7 +27,7 @@ int[] GeneratorArray(int Lenght, int minValui, int maxValua)
 int MetodSum(int[] array)
 {
     int sum = 0;
-    for ( int i = 0; i <= array.Lenght; i++)
+    for ( int i = 0; i <= array.Length; i++)
     {
         if (i % 2 != 0) sum += array[i];
     }
@@ -38,5 +38,5 @@ int Lenght = Bass("Dlena maseva: ");
 int min = Bass("Nachalnoe znach, dlya leapazona sluchayn chisel: ");
 int max = Bass("Konechnoe znach, dlya leapazona sluchayn chisel: ");
 int [] array = GeneratorArray(Lenght, min, max);
-System.Console.WriteLine($"otrecat chisel {array} = {MetodSum(sum)}");
+System.Console.WriteLine($"otrecat chisel = {MetodSum(array)}");
 
