@@ -2,6 +2,14 @@
 // между максимальным и минимальным элементов массива.
 // [3 7 22 2 78] -> 76
 
+int Bass(string sms)
+{
+    System.Console.WriteLine(sms);
+    string readImput = System.Console.ReadLine();
+    int result = int.Parse(readImput);
+    return result; 
+}
+
 
 float[] GeneratorArray(float Lenght, float minValui, float maxValua)
 {
@@ -15,7 +23,7 @@ float[] GeneratorArray(float Lenght, float minValui, float maxValua)
 
 }  
 
-void MetodSum(int Sum)
+void MetodRazneca(int[] array)
 {
     int min = 0;
     int max = 0;
@@ -25,5 +33,9 @@ void MetodSum(int Sum)
         if (max < i) max = i;
     }
 }
-int [] array = GeneratorArray(Lenght, minValui, maxValua);
-System.Console.WriteLine($"Разница между мин и макс = {MetodSum(max) - (min)}");
+
+int Lenght = Bass("Dlena maseva: ");
+int min = Bass("Nachalnoe znach, dlya leapazona sluchayn chisel: ");
+int max = Bass("Konechnoe znach, dlya leapazona sluchayn chisel: ");
+int [] array = GeneratorArray(Lenght, min, max);
+System.Console.WriteLine($"Разница между мин и макс = {MetodRazneca(maxA) - (minA)}");
