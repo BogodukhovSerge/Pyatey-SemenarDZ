@@ -23,15 +23,15 @@ int[] GeneratorArray(int Lenght, int minValui, int maxValua)
 
 }  
 
-int MetodNum(int count)
+int MetodCount(int[] array)
 {
-    int[] numA = new int[0];
-    int lenght = 0;
-    for ( int i = 0; i <= lenght; i++)
+    int count = 0;
+    int Lenght = 0;
+    for ( int i = 0; i <= Lenght; i++)
     {
-        if (numA[] > 99 || numA[] < 1000 ? numA[i] % 2 == 0 : (0))
+        if (array[i] % 2 == 0)
         {
-            count += numA[i];
+            count ++;
         }
     }
     return count;
@@ -43,4 +43,4 @@ int Lenght = Bass("Dlena maseva: ");
 int min = Bass("Nachalnoe znach, dlya deapazona sluchayn chisel: ");
 int max = Bass("Konechnoe znach, dlya deapazona sluchayn chisel: ");
 int [] array = GeneratorArray(Lenght, min, max);
-System.Console.WriteLine($"kolichestvo chet chisel {array} = {MetodNum(count)}");
+System.Console.WriteLine($"kolichestvo chet chisel = {MetodCount(array)}");
